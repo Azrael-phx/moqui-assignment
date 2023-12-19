@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<moqui-app id="helloWorld-component" name="Hello World Component" version="1.0.0">
+    <!-- You can add additional configuration for your component here -->
+</moqui-app>
